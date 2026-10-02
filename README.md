@@ -3,12 +3,13 @@
 </div>
 
 
-<p align="left">
+<p align="center">
   <img src="https://githance.in/api/render?type=decor&variant=leaf-trail&v=rect-v4&pc=%232C5DAD&sc=%23FF00FF&ac=%23DAE6C3&t=8&align=left&span=98" alt="Leaf Trail" />
 </p>
 
 <div align="center">
-## Tech Stack
+
+  ## Tech Stack
 
 ### Languages:
 
@@ -41,6 +42,7 @@
 </div>
 
 <div align="center">
+  
 ## Find Me Online
 
 <p align="center">
